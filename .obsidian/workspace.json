@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Masters/Term - 1/Data warehousing and Data Mining/Data.md",
+                "file": "Masters/Term - 1/Advance software development concepts/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Masters/Term - 1/Data warehousing and Data Mining/Data.md",
+                "file": "Masters/Term - 1/Advance software development concepts/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Masters/Term - 1/Data warehousing and Data Mining/Data.md",
+                "file": "Masters/Term - 1/Advance software development concepts/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Masters/Term - 1/Data warehousing and Data Mining/Data.md"
+                "file": "Masters/Term - 1/Advance software development concepts/Git.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "503a84e849edda41",
   "lastOpenFiles": [
+    "Masters/Term - 1/Data warehousing and Data Mining/Data.md",
     "Masters/Term - 1/Advance software development concepts/Git.md",
     "Masters/Term - 1/Untitled.md",
     "Untitled.md"
