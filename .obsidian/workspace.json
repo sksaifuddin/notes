@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff8e5683dfe57aef",
+            "id": "12091fbf32220acf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Masters/Term - 1/Advance software development concepts/Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "503a84e849edda41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Masters/Term - 1/Advance software development concepts/Git.md",
+                "file": "Masters/Term - 1/Advance software development concepts/Unit Testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Masters/Term - 1/Advance software development concepts/Git.md",
+                "file": "Masters/Term - 1/Advance software development concepts/Unit Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Masters/Term - 1/Advance software development concepts/Git.md",
+                "file": "Masters/Term - 1/Advance software development concepts/Unit Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Masters/Term - 1/Advance software development concepts/Git.md"
+                "file": "Masters/Term - 1/Advance software development concepts/Unit Testing.md"
               }
             }
           }
@@ -159,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "503a84e849edda41",
+  "active": "12091fbf32220acf",
   "lastOpenFiles": [
-    "Masters/Term - 1/Data warehousing and Data Mining/Data.md",
     "Masters/Term - 1/Advance software development concepts/Git.md",
+    "Masters/Term - 1/Advance software development concepts/Unit Testing.md",
+    "Masters/Term - 1/Data warehousing and Data Mining/Data.md",
     "Masters/Term - 1/Untitled.md",
     "Untitled.md"
   ]
