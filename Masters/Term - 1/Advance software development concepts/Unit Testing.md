@@ -56,7 +56,7 @@ _______________________________________________________________________________
 ### Spy
 
 -  These are stubs that also record some information based on how they are called. Example: Email service that records how many messages it was sent.
-- ==Recording the calls mde to it so that you can check that it was called with correct parameters==.
+- ==Recording the calls made to it so that you can check that it was called with correct parameters==.
 
 #### When to use it?
 - When the dependency in your test also has a dependency and you want to make sure that the inner dependency is resolved.
@@ -75,9 +75,28 @@ describe("when the user completes onboarding", () => {
 })
 ```
 
+### Mock
 
+*Write about mock here*
+
+
+## A test is not considered unit test if
+
+- It has any kind of side effect like talking to database, communication across network, touches the file system.
+- It can't run along with other tests.
+- You have to do special things to your enviroment like changing its configuration to run it.
 
 
 ## Questions:
 
 1. How to decide the single unit for unit testing? sometimes testing a whole class is better and easier than testing a single method. Are there any strategies or techniques to decide a single unit?
+
+
+### References:
+
+1. https://martinfowler.com/bliki/TestDouble.html
+2. https://tanzu.vmware.com/developer/guides/test-doubles/
+3. https://medium.com/docplanner-tech/test-doubles-eeacc380e049
+4. Amazing read about mocks and stubs: https://martinfowler.com/articles/mocksArentStubs.html
+
+[[Advance Software development concepts]]

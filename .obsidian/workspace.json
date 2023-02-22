@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "452f424226f834f7",
+        "id": "f6df00c7d98cc3a1",
         "type": "tabs",
         "children": [
           {
-            "id": "12091fbf32220acf",
+            "id": "189cb14f7749f7a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Masters/Term - 1/Advance software development concepts/Unit Testing.md",
+                "file": "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Masters/Term - 1/Advance software development concepts/Unit Testing.md",
+                "file": "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Masters/Term - 1/Advance software development concepts/Unit Testing.md",
+                "file": "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Masters/Term - 1/Advance software development concepts/Unit Testing.md"
+                "file": "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md"
               }
             }
           }
@@ -146,12 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12091fbf32220acf",
+  "active": "189cb14f7749f7a7",
   "lastOpenFiles": [
-    "Masters/Term - 1/Advance software development concepts/Git.md",
+    "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/0. Desing your own DBMS - Intro.md",
+    "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md",
     "Masters/Term - 1/Advance software development concepts/Unit Testing.md",
-    "Masters/Term - 1/Data warehousing and Data Mining/Data.md",
-    "Masters/Term - 1/Untitled.md",
-    "Untitled.md"
+    "Masters/Term - 1/Advance software development concepts/Test Driven Development.md",
+    "Masters/Term - 1/Advance software development concepts/Git.md",
+    "Masters/Term - 1/Advance software development concepts/Advance Software development concepts.md",
+    "Masters/Term - 1/Data warehousing and Data Mining/Data warehousing and Data management.md",
+    "Masters/Master of Applied Computer Science.md",
+    "Untitled.canvas",
+    "2023-02-20.md"
   ]
 }
