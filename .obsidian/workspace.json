@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f6df00c7d98cc3a1",
+        "id": "7481a2a0d1b19b2b",
         "type": "tabs",
         "children": [
           {
-            "id": "189cb14f7749f7a7",
+            "id": "d64c1b1b20960bde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +138,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "189cb14f7749f7a7",
+  "active": "d64c1b1b20960bde",
   "lastOpenFiles": [
-    "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/0. Desing your own DBMS - Intro.md",
-    "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md",
-    "Masters/Term - 1/Advance software development concepts/Unit Testing.md",
-    "Masters/Term - 1/Advance software development concepts/Test Driven Development.md",
-    "Masters/Term - 1/Advance software development concepts/Git.md",
     "Masters/Term - 1/Advance software development concepts/Advance Software development concepts.md",
+    "Masters/Term - 1/Advance software development concepts/code smells/Design smells/Hierarchy smells.md",
+    "Masters/Term - 1/Advance software development concepts/code smells/Design smells/Encapsulation Design smells.md",
+    "Masters/Term - 1/Advance software development concepts/code smells/Design smells/Design smells - home.md",
+    "Masters/Term - 1/Advance software development concepts/code smells/Design smells/Abstraction design smells.md",
+    "Masters/Term - 1/Advance software development concepts/Refactoring/Refactoring.md",
+    "Masters/Term - 1/Advance software development concepts/Software Design Principles and patterns/Design principles/Software design principles.md",
+    "Masters/Term - 1/Advance software development concepts/Software Design Principles and patterns/Design principles/Key Object-oriented principles.md",
+    "Masters/Term - 1/Advance software development concepts/Git.md",
+    "Masters/Term - 1/Advance software development concepts/Test Driven Development.md",
+    "Masters/Term - 1/Advance software development concepts/Unit Testing.md",
+    "Masters/Term - 1/Data warehousing and Data Mining/BigData/Hadoop.md",
+    "Masters/Term - 1/Data warehousing and Data Mining/BigData/BigData.md",
+    "Masters/Term - 1/Data warehousing and Data Mining/BigData/Apache spark.md",
+    "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/0. Desing your own DBMS - Intro.md",
     "Masters/Term - 1/Data warehousing and Data Mining/Data warehousing and Data management.md",
-    "Masters/Master of Applied Computer Science.md",
-    "Untitled.canvas",
-    "2023-02-20.md"
+    "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md",
+    "docker.md",
+    "open-1.png",
+    "SOLID.md",
+    "sqlite-archtiecture-overview.png",
+    "testing-pyramid.png",
+    "types-of-smells.jpg",
+    "sldflskd.md",
+    "Masters/Term - 1/Advance software development concepts/Software Design Principles and patterns/Software Design principles and patterns.md",
+    "Masters/Term - 1/Advance software development concepts/Refactoring",
+    "Masters/Term - 1/Advance software development concepts/code smells/code smells - Home.md",
+    "Masters/Term - 1/Advance software development concepts/code smells/Architectural Smells.md",
+    "Masters/Term - 1/Advance software development concepts/code smells/Code smells - Basics.md",
+    "Masters/Term - 1/Advance software development concepts/code smells/Design smells/Modularization Smells.md",
+    "Masters/Term - 1/Advance software development concepts/code smells/Implementation Smells.md",
+    "Masters/Term - 1/Advance software development concepts/code smells/Design smells",
+    "types-of-smells.jpg.crdownload",
+    "Masters/Term - 1/Advance software development concepts/code smells",
+    "Masters/Term - 1/Advance software development concepts/Software Design Principles and patterns/Design patterns",
+    "Masters/Term - 1/Advance software development concepts/Software Design Principles and patterns/Design principles",
+    "Masters/Term - 1/Advance software development concepts/Software Design Principles and patterns",
+    "Masters/Term - 1/Data warehousing and Data Mining/BigData",
+    "Untitled.canvas"
   ]
 }
