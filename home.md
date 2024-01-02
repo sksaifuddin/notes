@@ -1,1 +1,1 @@
-Only cool stuff here
+This is my notes section
