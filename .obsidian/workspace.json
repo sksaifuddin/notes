@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef4e2816beb623be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neetcode 150.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md",
+                "file": "Neetcode 150.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md",
+                "file": "Neetcode 150.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md"
+                "file": "Neetcode 150.md"
               }
             }
           }
@@ -154,19 +167,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89cbec66a84a1014",
+  "active": "ef4e2816beb623be",
   "lastOpenFiles": [
+    "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md",
+    "Neetcode 150.md",
     "DS and Algo/Data structures and Algorithms.md",
     "DS and Algo/Neetcode 150/Arrays and Hashing/test1.md",
     "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/test 2.md",
-    "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md",
     "DS and Algo/Techniques/Arrays.md",
     "Home.md",
     "DS and Algo/Techniques/Techniques.md",
     "DS and Algo/Neetcode 150/Arrays and Hashing/Easy",
     "DS and Algo/Neetcode 150/Arrays and Hashing",
     "Untitled",
-    "Untitled.md",
     "DS and Algo/Neetcode 150",
     "Masters/SOLID.md",
     "types-of-smells.jpg",
