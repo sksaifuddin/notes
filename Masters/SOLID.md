@@ -87,6 +87,8 @@ The above classes do not obey LSP because you cannot replace the `Rectangle` b
 ## 4. Interface segregation principle
 
 The **Interface Segregation Principle (ISP)** states that clients should not be forced to depend upon interface members they do not use. In other words, do not force any client to implement an interface that is irrelevant to them.
+
+Interfaces should be broken down into smaller pieces. By doing so, we can ensure that implementing classes only need to be concerned about the methods that are of interest to them.
   
 Don’t pollute interfaces  
 • Avoid fat interfaces  
