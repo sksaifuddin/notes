@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS and Algo/Data structures and Algorithms.md",
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/test 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS and Algo/Data structures and Algorithms.md",
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/test 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS and Algo/Data structures and Algorithms.md",
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/test 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS and Algo/Data structures and Algorithms.md"
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/test 2.md"
               }
             }
           }
@@ -154,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0eb5e0b48cb1f7e",
+  "active": "89cbec66a84a1014",
   "lastOpenFiles": [
+    "DS and Algo/Neetcode 150/Arrays and Hashing/test1.md",
+    "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/test 2.md",
+    "DS and Algo/Data structures and Algorithms.md",
     "DS and Algo/Neetcode 150/Contains Duplicate.md",
     "DS and Algo/Techniques/Arrays.md",
     "Home.md",
@@ -173,7 +176,6 @@
     "Masters/docker.md",
     "open-1.png",
     "Study of Error Detection Capability of CRC.md",
-    "DS and Algo/Data structures and Algorithms.md",
     "Masters/Master of Applied Computer Science.md",
     "Masters/Term - 1/Advance software development concepts/code smells/Design smells/Abstraction design smells.md",
     "Masters/Term - 1/Advance software development concepts/Refactoring/Refactoring.md",
@@ -190,8 +192,6 @@
     "Masters/Term - 1/Data warehousing and Data Mining/BigData/Apache spark.md",
     "Masters/Term - 1/Data warehousing and Data Mining/BigData/BigData.md",
     "Masters/Term - 1/Data warehousing and Data Mining/BigData/Hadoop.md",
-    "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md",
-    "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/0. Desing your own DBMS - Intro.md",
     "Masters/Term - 1/Advance software development concepts/Refactoring",
     "Masters/Term - 1/Advance software development concepts/code smells/Design smells",
     "types-of-smells.jpg.crdownload",
