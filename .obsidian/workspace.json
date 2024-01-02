@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS and Algo/Neetcode 150/1. Arrays and Hashing/1. Easy/1. Contains Duplicate.md",
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/Contains Duplicate.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS and Algo/Neetcode 150/1. Arrays and Hashing/1. Easy/1. Contains Duplicate.md",
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/Contains Duplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS and Algo/Neetcode 150/1. Arrays and Hashing/1. Easy/1. Contains Duplicate.md",
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/Contains Duplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS and Algo/Neetcode 150/1. Arrays and Hashing/1. Easy/1. Contains Duplicate.md"
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/Contains Duplicate.md"
               }
             }
           }
@@ -154,12 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89cbec66a84a1014",
+  "active": "d0eb5e0b48cb1f7e",
   "lastOpenFiles": [
-    "DS and Algo/Neetcode 150/1. Arrays and Hashing/1. Easy/1. Contains Duplicate.md",
+    "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/Contains Duplicate.md",
     "Home.md",
-    "DS and Algo/Neetcode 150/1. Arrays and Hashing/1. Easy",
-    "DS and Algo/Neetcode 150/1. Arrays and Hashing",
+    "DS and Algo/Neetcode 150/Arrays and Hashing/Easy",
+    "DS and Algo/Neetcode 150/Arrays and Hashing",
     "Untitled",
     "Untitled.md",
     "DS and Algo/Neetcode 150",
