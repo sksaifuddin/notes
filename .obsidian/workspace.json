@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neetcode 150.md",
+                "file": "DS and Algo/Neetcode 150/Neetcode 150.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neetcode 150.md",
+                "file": "DS and Algo/Neetcode 150/Neetcode 150.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neetcode 150.md",
+                "file": "DS and Algo/Neetcode 150/Neetcode 150.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neetcode 150.md"
+                "file": "DS and Algo/Neetcode 150/Neetcode 150.md"
               }
             }
           }
@@ -167,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef4e2816beb623be",
+  "active": "d0eb5e0b48cb1f7e",
   "lastOpenFiles": [
     "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md",
-    "Neetcode 150.md",
+    "DS and Algo/Neetcode 150/Neetcode 150.md",
     "DS and Algo/Data structures and Algorithms.md",
     "DS and Algo/Neetcode 150/Arrays and Hashing/test1.md",
     "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/test 2.md",
