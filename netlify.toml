@@ -4,13 +4,13 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = ""
+LANDING_BUTTON = "Click to read some👆"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = ""
+LANDING_DESCRIPTION = "This web page contains all my notes"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = ""
+LANDING_TITLE = "Welcome to my notes"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/sksaifuddin/notes"
