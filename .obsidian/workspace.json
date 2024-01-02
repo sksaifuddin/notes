@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "DS and Algo/Neetcode 150/1. Arrays and Hashing/1. Easy/1. Contains Duplicate.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "DS and Algo/Neetcode 150/1. Arrays and Hashing/1. Easy/1. Contains Duplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "DS and Algo/Neetcode 150/1. Arrays and Hashing/1. Easy/1. Contains Duplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "DS and Algo/Neetcode 150/1. Arrays and Hashing/1. Easy/1. Contains Duplicate.md"
               }
             }
           }
@@ -156,6 +156,13 @@
   },
   "active": "89cbec66a84a1014",
   "lastOpenFiles": [
+    "DS and Algo/Neetcode 150/1. Arrays and Hashing/1. Easy/1. Contains Duplicate.md",
+    "Home.md",
+    "DS and Algo/Neetcode 150/1. Arrays and Hashing/1. Easy",
+    "DS and Algo/Neetcode 150/1. Arrays and Hashing",
+    "Untitled",
+    "Untitled.md",
+    "DS and Algo/Neetcode 150",
     "DS and Algo/Techniques/Arrays.md",
     "Masters/SOLID.md",
     "types-of-smells.jpg",
@@ -168,7 +175,6 @@
     "DS and Algo/Data structures and Algorithms.md",
     "DS and Algo/Techniques/Techniques.md",
     "Masters/Master of Applied Computer Science.md",
-    "Untitled.md",
     "Masters/Term - 1/Advance software development concepts/code smells/Design smells/Abstraction design smells.md",
     "Masters/Term - 1/Advance software development concepts/Refactoring/Refactoring.md",
     "DS and Algo/Techniques",
@@ -186,16 +192,10 @@
     "Masters/Term - 1/Data warehousing and Data Mining/BigData/Hadoop.md",
     "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md",
     "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/0. Desing your own DBMS - Intro.md",
-    "Masters/Term - 1/Advance software development concepts/Git.md",
-    "Masters/Term - 1/Advance software development concepts/code smells/Design smells/Modularization Smells.md",
     "Masters/Term - 1/Advance software development concepts/Refactoring",
     "Masters/Term - 1/Advance software development concepts/code smells/Design smells",
     "types-of-smells.jpg.crdownload",
     "Masters/Term - 1/Advance software development concepts/code smells",
-    "Masters/Term - 1/Advance software development concepts/Software Design Principles and patterns/Design patterns",
-    "Masters/Term - 1/Advance software development concepts/Software Design Principles and patterns/Design principles",
-    "Masters/Term - 1/Advance software development concepts/Software Design Principles and patterns",
-    "Masters/Term - 1/Data warehousing and Data Mining/BigData",
     "Untitled.canvas"
   ]
 }
