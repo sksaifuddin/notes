@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/Contains Duplicate.md",
+                "file": "DS and Algo/Data structures and Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/Contains Duplicate.md",
+                "file": "DS and Algo/Data structures and Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/Contains Duplicate.md",
+                "file": "DS and Algo/Data structures and Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/Contains Duplicate.md"
+                "file": "DS and Algo/Data structures and Algorithms.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "89cbec66a84a1014",
   "lastOpenFiles": [
-    "DS and Algo/Techniques/Arrays.md",
     "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/Contains Duplicate.md",
+    "DS and Algo/Techniques/Arrays.md",
     "Home.md",
     "DS and Algo/Techniques/Techniques.md",
     "DS and Algo/Neetcode 150/Arrays and Hashing/Easy",
