@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/test 2.md",
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/test 2.md",
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/test 2.md",
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/test 2.md"
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md"
               }
             }
           }
@@ -156,10 +156,10 @@
   },
   "active": "89cbec66a84a1014",
   "lastOpenFiles": [
+    "DS and Algo/Data structures and Algorithms.md",
     "DS and Algo/Neetcode 150/Arrays and Hashing/test1.md",
     "DS and Algo/Neetcode 150/Arrays and Hashing/Easy/test 2.md",
-    "DS and Algo/Data structures and Algorithms.md",
-    "DS and Algo/Neetcode 150/Contains Duplicate.md",
+    "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md",
     "DS and Algo/Techniques/Arrays.md",
     "Home.md",
     "DS and Algo/Techniques/Techniques.md",
