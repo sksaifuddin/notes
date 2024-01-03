@@ -47,4 +47,4 @@ time complexity: O(nlogn) - since sorting is involved.
 
 There are other solutions with O(n) complexity using HashMap and HashSet, I will try to other problems with Hash, since it is too simple problem.
 
-[[Data structures and Algorithms]]
+ [[Neetcode 150]]
