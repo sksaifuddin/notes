@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Valid Anagram.md",
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Two Sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Valid Anagram.md",
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Two Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Valid Anagram.md",
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Two Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Valid Anagram.md"
+                "file": "DS and Algo/Neetcode 150/Arrays and Hashing/Two Sum.md"
               }
             }
           }
@@ -169,8 +169,9 @@
   },
   "active": "db8eb6b4ff19950b",
   "lastOpenFiles": [
-    "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md",
     "DS and Algo/Neetcode 150/Arrays and Hashing/Valid Anagram.md",
+    "DS and Algo/Neetcode 150/Arrays and Hashing/Two Sum.md",
+    "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md",
     "DS and Algo/Neetcode 150/Neetcode 150.md",
     "DS and Algo/Data structures and Algorithms.md",
     "DS and Algo/Neetcode 150/Arrays and Hashing/test1.md",
@@ -204,7 +205,6 @@
     "Masters/Term - 1/Data warehousing and Data Mining/DBMS.md",
     "Masters/Term - 1/Data warehousing and Data Mining/Data warehousing and Data management.md",
     "Masters/Term - 1/Data warehousing and Data Mining/BigData/Apache spark.md",
-    "Masters/Term - 1/Data warehousing and Data Mining/BigData/BigData.md",
     "Masters/Term - 1/Advance software development concepts/Refactoring",
     "Masters/Term - 1/Advance software development concepts/code smells/Design smells",
     "types-of-smells.jpg.crdownload",
