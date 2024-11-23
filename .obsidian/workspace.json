@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Singleton Pattern.md",
+                "file": "Java/Singleton Pattern.md",
                 "mode": "source",
                 "source": false
               },
@@ -219,11 +219,11 @@
   "lastOpenFiles": [
     "Home.md",
     "Java/Java Index.md",
+    "Untitled.canvas",
     "Java/Maven.md",
     "Java/DAO Pattern.md",
-    "Singleton Pattern.md",
+    "Java/Singleton Pattern.md",
     "Canadian investment and tax guide/TFSA.md",
-    "Untitled.canvas",
     "Java",
     "Canadian investment and tax guide/Canadian investment and tax guide Index.md",
     "Canadian.md",
@@ -254,7 +254,6 @@
     "types-of-smells.jpg",
     "testing-pyramid.png",
     "sqlite-archtiecture-overview.png",
-    "SOLID.md",
     "open-1.png",
     "DS and Algo/Techniques",
     "DS and Algo"
