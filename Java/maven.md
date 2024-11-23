@@ -99,5 +99,5 @@ A lifecycle is a collection of related activities pertaining to a specific type 
 [2] https://cguntur.me/2020/05/20/understanding-apache-maven-the-series/
 [3] https://books.sonatype.com/mvnref-book/reference/index.html
 
-[[1. Java Index | Index]]
+[[Java Index| Index]]
 
