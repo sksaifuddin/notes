@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/DAO Pattern.md",
+                "file": "Java/Java developer Road map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DAO Pattern"
+              "title": "Java developer Road map"
             }
           },
           {
@@ -200,16 +200,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddbd909c78461b2f",
+  "active": "d0eb5e0b48cb1f7e",
   "lastOpenFiles": [
     "Java/Java Index.md",
+    "Java/Java developer Road map.md",
+    "Java/DAO Pattern.md",
     "Java/Singleton Pattern.md",
     "Home.md",
     "DS and Algo/Neetcode 150/Arrays and Hashing/Contains Duplicate.md",
     "Java/Basics of Java.md",
     "Java/Maven.md",
     "Untitled.canvas",
-    "Java/DAO Pattern.md",
     "Canadian investment and tax guide/TFSA.md",
     "Java",
     "Canadian investment and tax guide/Canadian investment and tax guide Index.md",
@@ -236,7 +237,6 @@
     "DS and Algo/Neetcode 150/Arrays and Hashing/Easy",
     "DS and Algo/Neetcode 150/Arrays and Hashing",
     "DS and Algo/Neetcode 150",
-    "Masters/SOLID.md",
     "types-of-smells.jpg",
     "testing-pyramid.png",
     "sqlite-archtiecture-overview.png",
