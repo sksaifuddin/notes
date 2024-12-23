@@ -10,7 +10,7 @@ This is the official spring boot dependency link: https://mvnrepository.com/arti
 Once you import the dependency into your maven/Gradle dependency file then create a new file in the src/main/java/app package called App.java
 
 This App.java will be the entry point of the application. Add this code in the App.java
-```
+```java
 package app;  
   
 import org.springframework.boot.SpringApplication;  
