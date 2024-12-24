@@ -5,3 +5,4 @@
 	1. [[Singleton Pattern]]
 5. [[Cave of Programming - Spring Framework]]
 6. [[Spring Framework]]
+7. [[Spring Course]]
