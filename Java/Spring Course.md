@@ -55,6 +55,22 @@ When you build a .jar file, Maven will, by default, only put _your own_ source
 
 This whole process of adding the manifest, and then shading, is done by Spring boot in its own way. this is reason we never had to do it ourselves, although we ran lot of spring boot applications.
 
+### JSON Endpoints
+
+Here we will create and new endpoint with post request and then also make changes to return an JSON instead of just html.
+
+we will need a model first to create the invoices. We can create a new package called model and create a new class called Invoice. It will have all the properties required for invoice. But the actual implementation will be in its service, so we will create another package called Service which will have a class called InvoiceService.
+
+For returning the JSON we have to use another external dependency called Jackson, since java does not provide a good JSON solution on its own. 
+
+Make changes to the Servlet class to add Post request which will take parameters userId and amount and  then add it to the list. This is just general MVC stuff which all applications has, but it was a good practice.
+
+Another interesting thing I learnt here was: CopyOnWriteArrayList. Apparently, just using ArrayList is not thread safe (I don't know what this means yet)
+
+==Learn more about CopyOnWriteArrayList==
+
+Until now we create a small servlet application with two an end point /invoices which has post and get request. We now can return JSON from the application. and also put the files in the correct package structure of Model, Services and Web.
+
 Sources:
 1. A short guide to maven - https://www.marcobehler.com/guides/mvn-clean-install-a-short-guide-to-maven
 2. Confident Spring Professional course
