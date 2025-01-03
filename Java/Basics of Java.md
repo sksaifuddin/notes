@@ -17,6 +17,37 @@ Java has 8 primitive data types:
 | _char_    | 16          | 0       | 216– 1         | _char c = ‘c’;_                 |                                                  |
 | _boolean_ | 1           | –       | –              | _boolean b = true;_             |                                                  |
 source: https://www.baeldung.com/java-primitives#:~:text=2.-,Primitive%20Data%20Types,about%20memory%20management%20in%20Java).
+
+## Type casting
+
+
+## var keyword in Java
+
+It allows you to create a variable without explicitly declaring the specific data type of the variable. This keyword forces automatic type inference based on the type of the assigned value, so it necessary to provide the value of variable at the time of declaration.
+
+### When to use?
+
+With `var` , we don’t have to reiterate what is obvious, hence, we simply use `var` for the local variable. Also the `var` keyword uses type inference because of which it can identify the type of the variable depending on the value assigned to it.
+
+When you use the traditional approach, your code will be difficult to read because in most of the cases there will be type duplications, for example,
+
+`EmployeeDetail employeeDetail = new EmployeeDetail ();`
+
+With using `var` , the code will become much more readable and concise. Let’s compare this with the example above.
+
+`var employeeDetail = new EmployeeDetail ();`
+
+### When not to use?
+
+* You cannot declare a local variable using `var` without initializing it or with `null` value.
+* You cannot use `var` for declaring instance fields, static fields, declaring a lambda expression, parameters for constructors or methods, method return types and generic types.
+* When you want same type of variable for an object of same inheritance hierarchy,
+
+### Conclusion
+
+In a nutshell, the var keyword look like a really good way to improve readability and reduce the length of the code by not stating which is obvious. We can use this with local variables, or with objects where automatic inference makes sense.
+
+
 ## Static keyword in Java
 
 * In Java, when we declare a field _static_, exactly a single copy of that field is created and shared among all instances of that class.
