@@ -20,7 +20,40 @@ source: https://www.baeldung.com/java-primitives#:~:text=2.-,Primitive%20Data%20
 
 ## Type casting
 
+Type Casting is changing the data type. Suppose you need to assign a value of one type to a variable of another type. Meaning, you need to cast the source type to target type
 
+source type -> target type
+
+### Implicit casting
+
+The compiler automatically performs casting when target type is wider than the source type.
+
+source type -> target type (wider) // can do automatic casting
+
+This direction of implicit casting is:
+byte -> short -> int -> long -> float -> double
+
+example:
+
+```java
+int num = 100;
+long bigNum = num; // 100L
+```
+
+### Explicit Casting
+
+Incase source is wider than the target type then the casting cannot be done by the compiler, the programmer has to explicitly mention the casting types.
+
+To perform explicit casting, a programmer must write the target type in parentheses before the source.
+```java
+(targetType) source
+```
+
+In this case there will be loss in the data, this is called "Type Overflow", because the source was actually holding more data than the target data, so its very important to be really careful when doing explicit casting.
+
+## Primitive and reference types
+
+In java, all data types are separated into two groups: primitive types and reference types. 
 ## var keyword in Java
 
 It allows you to create a variable without explicitly declaring the specific data type of the variable. This keyword forces automatic type inference based on the type of the assigned value, so it necessary to provide the value of variable at the time of declaration.
