@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Leetcode daily.md",
+                "file": "Java/Basics of Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode daily"
+              "title": "Basics of Java"
             }
           }
         ],
@@ -217,10 +217,10 @@
   },
   "active": "d060bcdfb45c5538",
   "lastOpenFiles": [
+    "DSA/Leetcode daily.md",
     "DSA/DSA Index.md",
     "DSA/Binary Tree.md",
     "DSA/Algorithms.md",
-    "DSA/Leetcode daily.md",
     "Home.md",
     "Java/Basics of Java.md",
     "Java/Java Index.md",

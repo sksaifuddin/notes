@@ -54,6 +54,8 @@ In this case there will be loss in the data, this is called "Type Overflow", bec
 ## Primitive and reference types
 
 In java, all data types are separated into two groups: primitive types and reference types. 
+
+![Heap and stack](https://drive.google.com/file/d/1pVomefdpWiJ16Ua2JAAki5zr9K_w8YT1/view)
 ## var keyword in Java
 
 It allows you to create a variable without explicitly declaring the specific data type of the variable. This keyword forces automatic type inference based on the type of the assigned value, so it necessary to provide the value of variable at the time of declaration.
