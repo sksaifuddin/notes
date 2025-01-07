@@ -6,18 +6,14 @@
 
 Java has 8 primitive data types:
 
-| Type      | Size (bits) | Minimum | Maximum        | Example                         | notes                                            |
-| --------- | ----------- | ------- | -------------- | ------------------------------- | ------------------------------------------------ |
-| _byte_    | 8           | -27     | 27– 1          | _byte b = 100;_                 | a compact data type, great for conserving memory |
-| _short_   | 16          | -215    | 215– 1         | _short s = 30_000;_             | larger than byte                                 |
-| _int_     | 32          | -231    | 231– 1         | _int i = 100_000_000;_          | used for whole numbers                           |
-| _long_    | 64          | -263    | 263– 1         | _long l = 100_000_000_000_000;_ | for representing long numbers                    |
-| _float_   | 32          | -2-149  | (2-2-23)·2127  | _float f = 1.456f;_             | floating-point numbers with single precision     |
-| _double_  | 64          | -2-1074 | (2-2-52)·21023 | _double f = 1.456789012345678;_ | floating-point numbers with double precision     |
-| _char_    | 16          | 0       | 216– 1         | _char c = ‘c’;_                 |                                                  |
-| _boolean_ | 1           | –       | –              | _boolean b = true;_             |                                                  |
-source: https://www.baeldung.com/java-primitives#:~:text=2.-,Primitive%20Data%20Types,about%20memory%20management%20in%20Java.
-
+1) byte - 8 bits
+2) short - 16 bits
+3) int - 32 bits
+4) long - 64 bits
+5) float - 32 bits
+6) double - 64 bits
+7) char - 16 bits
+8) boolean - 1 bit
 ### Type casting
 
 Type Casting is changing the data type. Suppose you need to assign a value of one type to a variable of another type. Meaning, you need to cast the source type to target type
