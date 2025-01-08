@@ -192,6 +192,120 @@ With using `var` , the code will become much more readable and concise. Let’
 
 In a nutshell, the var keyword look like a really good way to improve readability and reduce the length of the code by not stating which is obvious. We can use this with local variables, or with objects where automatic inference makes sense.
 
+## Methods
+### Overloading in Java
+
+Having multiple methods with same but different parameters is called Method overloading. It has same name but have distinct arguments. When a method is called , the language determines which version of the method to run based on the number, types and order of the arguments.
+
+It is an essential concepts in OOPs that makes code more concise, easier to read and maintain and enable its reuse.
+
+### Array as parameters
+
+This is really important to understand. When you pass the primitive types to a method, you are passing a value but when you pass array which is a reference type, a copy of the reference is created, but the values is the same. This means that if you change the actual value (elements of an array) in the body of a method, you will see these changes outside the method.
+
+The following method swaps the first and the last elements of its parameter (array).
+
+```java
+public static void swapFirstAndLastElements(int[] nums) { // nums is an array
+    if (nums.length < 1) {
+        return; // it returns nothing, i.e. just exits the method
+    }
+
+    int temp = nums[nums.length - 1]; // save the last element in a temporary local variable
+    nums[nums.length - 1] = nums[0];  // now, the last element becomes the first
+    nums[0] = temp;                   // now, the first element becomes the former last
+}
+```
+
+Calling the method from the main method:
+
+```java
+public static void main(String[] args) {
+
+    int[] numbers = { 1, 2, 3, 4, 5 }; // numbers
+
+    System.out.println(Arrays.toString(numbers)); // before swapping
+
+    swapFirstAndLastElements(numbers); // swapping
+
+    System.out.println(Arrays.toString(numbers)); // after swapping
+}
+```
+
+The output is:
+
+```java
+[1, 2, 3, 4, 5]
+[5, 2, 3, 4, 1] 
+```
+
+So, in the body of the main method, an array is visible as modified.
+
+### Varargs
+
+It is passible to pass any number of same type of arguments to a method using a special syntax named varargs (variable-length arguments), This is the syntax: "..." (three dots). In the body of the method, you can process this parameter as a regular array of specified type.
+
+The following method takes an integer **vararg** parameter and outputs the number of arguments in the standard output using the **length** property of arrays.
+
+```java
+public static void printNumberOfArguments(int... numbers) {
+    System.out.println(numbers.length);
+}
+```
+
+As you can see, a special syntax `**...**` is used here to specify a **vararg** parameter.
+
+Now, you can invoke the method by passing several integer numbers or an array of ints.
+
+```java
+printNumberOfArguments(1);
+printNumberOfArguments(1, 2);
+printNumberOfArguments(1, 2, 3);
+printNumberOfArguments(new int[] { }); // no arguments here
+printNumberOfArguments(new int[] { 1, 2 });
+```
+
+This code outputs:
+
+```java
+1
+2
+3
+0
+2
+```
+
+This example also demonstrates the difference between the arguments and parameters of a method. The method has only a single parameter but it can be called with several arguments.
+
+Varargs should always last one in the declaration of the method.
+Here is an incorrect example:
+
+```java
+public static void method(double... varargs, int a) { /* do something */ }
+```
+
+The correct version of the method is:
+
+```java
+public static void method(int a, double... varargs) { /* do something */ }
+```
+
+
+## Object Oriented Programming
+
+
+Object Oriented programming centers around classes and objects and cornerstones.
+
+### Classes and Objects
+
+Classes serves as a blueprint, much like architectural plans that are used when constructing multiple buildings.
+
+A class encapsulates data so that the object and methods can manipulate the data. An object is a specific instance of a class. We can create an object of the class using new keyword.
+
+### Grouping classes with packages
+
+
+
 
 ## Static keyword in Java
 
