@@ -304,7 +304,25 @@ A class encapsulates data so that the object and methods can manipulate the data
 
 ### Grouping classes with packages
 
+Large java projects have a lot of classes and it is difficult to manage them if the are stored in same directory. Packages provide a mechanism to group them together.
 
+Packages have many advantages, for example, they allow us to:
+- group related classes together, which makes it easier to figure out where a certain class is;
+- avoid conflicting class names;
+- control access to classes and members with [access modifiers](https://hyperskill.org/learn/step/3621 "In Java, access modifiers are special keywords that specify who is allowed to use your code or a part of it. | They can be placed in front of any field, method, or class. There are four different access modifiers in Java: private, package-private (also known as default), protected, and public. The private access modifier is only accessible within the class itself. The package-private access modifier is accessible to classes from the same package. The protected access modifier is accessible to classes from the same package and any extending class. The public access modifier can be accessed from anywhere.").
+
+Classes declared inside a package have a special keyword `package` at the top of the file. A package can contain other packages, and the whole structure resembles directories in a file system.
+
+#### Avoid conflicting class names
+When you use external libraries, two classes may have the same name. Packages allow us to avoid a conflict of class names because the full class name includes the package name. So even if two classes from different packages have the same name, their full names will be different. That is, of course, if there are no conflicts between the package names.
+
+To avoid creating packages with the same names as other public packages, it is generally recommended to start your package hierarchy with the reversed domain name of your company
+
+#### Importing classes
+You can import the classes with the keyword import. If both the classes are in same package then you don't have use import. 
+
+#### Default package
+If we do not write a package statement before defining our class, it will be placed inside the **default package**. This package has a big disadvantage — classes located here can't be imported to classes located inside named packages.
 
 
 ## Static keyword in Java
