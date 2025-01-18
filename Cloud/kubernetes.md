@@ -228,3 +228,38 @@ StatefulSet is the workload API object used to manage stateful applications.
 Deployment are generally meant for stateless pods/applications. If you want to maintain the state of the application, like for pod running the database, then you have to use statefulset. This can be tricky and difficult to maintain so its better to keep your cluster stateless and then keep your state outside the cluster like having database outside the cluster. K8s is meant to handle the compute of the application and not storage or state.
 
 Manages the deployment and scaling of a set of [Pods](https://kubernetes.io/docs/concepts/workloads/pods/), _and provides guarantees about the ordering and uniqueness_ of these Pods.
+
+## Commonly used kubectl commands
+
+### get all component created in cluster
+```bash
+kubectl get all
+```
+
+### get specific component info
+```bash
+kubectl get <component-name: example: pod/service>
+```
+
+### Apply configuration file
+```bash
+kubectl apply -f <file-name>
+```
+-f = file
+
+### get more details of the component
+```bash
+kubectl describe <component-name: ex: service> <actual-name: ex: webapp-service>
+```
+
+### Print logs of the pod
+```bash
+kubectl logs <pod-name>
+```
+
+### Open shell inside the pod container
+```bash
+kubectl exec -it <pod-name> --sh
+```
+
+
