@@ -229,7 +229,7 @@ Deployment are generally meant for stateless pods/applications. If you want to m
 
 Manages the deployment and scaling of a set of [Pods](https://kubernetes.io/docs/concepts/workloads/pods/), _and provides guarantees about the ordering and uniqueness_ of these Pods.
 
-## Commonly used kubectl commands
+# Commonly used kubectl commands
 
 ### get all component created in cluster
 ```bash
