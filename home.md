@@ -2,8 +2,8 @@ Welcome to my notes. I am Shaik Saifuddin, a software engineer living in Canada 
 
 # Content
 
-1. [[Master of Applied Computer Science]]
-2. [[Canadian investment and tax guide Index]]
+1. [[AI]]
+2. [[Master of Applied Computer Science]]
 3. [[Java Index]]
 4. [[Cloud Index]]
 5. [[DSA Index]]

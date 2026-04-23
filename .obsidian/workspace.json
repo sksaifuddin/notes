@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9bf661e2f75d1950",
+        "id": "37993768e262d1a5",
         "type": "tabs",
         "children": [
           {
-            "id": "15d88fcdc5dc3e97",
+            "id": "1af683d4b2cb24f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Common Techniques.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Techniques"
+              "title": "Home"
+            }
+          },
+          {
+            "id": "9b913e4b3cb6d16f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -149,10 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Common Techniques.md"
+                "file": "AI/AI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Common Techniques"
+              "title": "Outline of AI"
             }
           }
         ],
@@ -172,22 +191,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15d88fcdc5dc3e97",
+  "active": "d0eb5e0b48cb1f7e",
   "lastOpenFiles": [
+    "AI/AI.md",
+    "Home.md",
+    "Permanent Residency/Supporting documents.md",
+    "DSA/Common Techniques.md",
+    "Permanent Residency",
+    "AI/Vibe Coding/prompts",
+    "AI/Vibe Coding",
+    "AI",
     "Cloud/Cloud Index.md",
     "Cloud/kubernetes.md",
     "Cloud/Docker.md",
-    "Home.md",
     "Cloud/Roles of Terraform and kubectl.md",
     "Cloud/Terraform.md",
     "DSA/DSA Index.md",
     "Java/Basics of Java.md",
     "Cloud",
     "DSA/Leetcode daily.md",
-    "DSA/Common Techniques.md",
     "Java/Java Index.md",
     "Java/Object Oriented Programming.md",
-    "Untitled.md",
     "DSA/Binary Tree.md",
     "DSA/Algorithms.md",
     "Java/Spring Course.md",
@@ -202,15 +226,10 @@
     "Java/Maven.md",
     "Java/Java developer Road map.md",
     "Java/DAO Pattern.md",
-    "Java/Cave of Programming - Spring Framework.md",
     "Untitled.canvas",
     "Java",
     "Canadian investment and tax guide",
     "DS and Algo/structy/introduction",
-    "DS and Algo/structy",
-    "DS and Algo/Neetcode 150/Two pointer",
-    "DS and Algo/Neetcode 150/Arrays and Hashing/Easy",
-    "DS and Algo/Neetcode 150/Arrays and Hashing",
     "types-of-smells.jpg",
     "testing-pyramid.png",
     "sqlite-archtiecture-overview.png",
