@@ -42,14 +42,11 @@ This is the list of all the documents that you need for CEC category after ITA.
 ### Letter of explanation
 
 * Give overview of everything
-* About experience - write about scora but not claiming points
-* explain about parents death and last name not in passport section
-* No last name ("." in some certificates)
+* About experience 
 * No funds required letter
-* co-op in CRA but no claiming points for it - and its docs
+* co-op
 * Canadian bank statement
 * Indian Bank statement
 * Notice of assessment and all kinds of tax forms
-* No other travel stamps or visas in passport
 
 
