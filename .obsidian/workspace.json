@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "README"
             }
           }
         ],
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README.md"
+              "title": "Outline of README"
             }
           }
         ],
@@ -206,10 +206,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "270439ca3dd3bfe8",
+  "active": "d0eb5e0b48cb1f7e",
   "lastOpenFiles": [
     "Home.md",
-    "README.md.md",
+    "README.md",
     "AI/AI.md",
     "Permanent Residency/Supporting documents.md",
     "DSA/Common Techniques.md",
