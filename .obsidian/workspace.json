@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "9b913e4b3cb6d16f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/AI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI"
-            }
-          },
-          {
-            "id": "270439ca3dd3bfe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent Residency/Supporting documents.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Supporting documents"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Residency/Supporting documents.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Supporting documents"
+              "title": "Outline of Home"
             }
           }
         ],
@@ -206,13 +177,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "270439ca3dd3bfe8",
+  "active": "1af683d4b2cb24f5",
   "lastOpenFiles": [
+    "AI/AI.md",
+    "Untitled.canvas",
+    "AI/LLM developer/LLM Developer Basics.md",
+    "AI/LLM developer",
+    "DSA/Leetcode daily.md",
+    "DSA/DSA Index.md",
+    "DSA/Common Techniques.md",
+    "DSA/Binary Tree.md",
+    "DSA/Algorithms.md",
+    "Masters/Master of Applied Computer Science.md",
+    "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md",
+    "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/0. Desing your own DBMS - Intro.md",
+    "Masters/Term - 1/Data warehousing and Data Mining/BigData/Hadoop.md",
+    "Masters/Term - 1/Data warehousing and Data Mining/BigData/BigData.md",
+    "Masters/Term - 1/Data warehousing and Data Mining/BigData/Apache spark.md",
+    "Masters/SOLID.md",
+    "Permanent Residency/Supporting documents.md",
     "README.md",
     "Home.md",
-    "AI/AI.md",
-    "Permanent Residency/Supporting documents.md",
-    "DSA/Common Techniques.md",
     "Permanent Residency",
     "AI/Vibe Coding/prompts",
     "AI/Vibe Coding",
@@ -222,29 +207,14 @@
     "Cloud/Docker.md",
     "Cloud/Roles of Terraform and kubectl.md",
     "Cloud/Terraform.md",
-    "DSA/DSA Index.md",
     "Java/Basics of Java.md",
     "Cloud",
-    "DSA/Leetcode daily.md",
     "Java/Java Index.md",
     "Java/Object Oriented Programming.md",
-    "DSA/Binary Tree.md",
-    "DSA/Algorithms.md",
-    "Java/Spring Course.md",
-    "Java/Spring Framework.md",
-    "Masters/Term - 1/Advance software development concepts/code smells/Design smells/Design smells - home.md",
-    "Masters/Term - 1/Advance software development concepts/code smells/Design smells/Encapsulation Design smells.md",
-    "Masters/Term - 1/Advance software development concepts/code smells/Design smells/Hierarchy smells.md",
-    "Masters/Term - 1/Advance software development concepts/code smells/Design smells/Abstraction design smells.md",
     "DSA/Untitled",
     "DSA",
-    "Java/Singleton Pattern.md",
-    "Java/Maven.md",
-    "Java/Java developer Road map.md",
-    "Untitled.canvas",
     "Java",
     "Canadian investment and tax guide",
-    "DS and Algo/structy/introduction",
     "types-of-smells.jpg",
     "testing-pyramid.png",
     "sqlite-archtiecture-overview.png",
