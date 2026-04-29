@@ -29,4 +29,20 @@ Without a dummy head, you have to handle the **first node as a special case**, w
 
 example problem: https://leetcode.com/problems/merge-two-sorted-lists/description/
 
-### Fast and slow pointer
+### Fast and slow pointer 
+
+Also called Floyd's Tortoise and Hare algorithm
+
+if we move two pointer in a LinkedList and make one move by one node and another (fast) by two nodes, and if there is a cycle they will eventually meet each other. Very helpful and easy algorithm to detect cycles
+
+```python
+
+ def hasCycle(self, head):
+        slow, fast = head, head
+        while fast and fast.next:
+            fast = fast.next.next
+            slow = slow.next
+            if fast == slow:
+                return True
+        return False
+```
