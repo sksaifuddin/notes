@@ -26,3 +26,15 @@ Fine-tuning is like giving an LLM a crash course in your pet subject. Fine-Tunin
 Why memorize when you can look it up? - the crux of Agents
 
 LLMs are getting sharp enough to power agents—systems that think, plan, act autonomously and tap external tools to get stuff done. Think accessing calculators for math tasks, weather APIs for forecasts, or browsing the internet for you to research certain information. It’s less about stuffing the model with facts and more about teaching it to fetch what it needs and take actions if needed. These tools allow agents to handle tasks that go beyond their internal knowledge and processing capacity
+
+#### Proprietary, Open-Weights, and Open-Source Models
+
+Language models fall into three main categories: proprietary, open-weight, and open-source.
+##### Proprietary models
+like OpenAI’s GPT series and Anthropic’s Claude series, keep their capabilities behind a paywall, accessible through APIs or web interfaces.
+##### Open-weight models
+such as Meta’s Llama family or Alibaba’s Qwen models, offer their architectures and model weights for public use.
+##### Fully open-source models
+like AI2’s OLMo and Pynthia, are as transparent as they get, offering everything from pre-training data to training code.
+
+Deciding on the best model involves assessing your specific requirements, resource availability, and budget.
