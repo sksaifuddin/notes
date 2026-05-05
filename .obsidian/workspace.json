@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt Engineering.md",
+                "file": "AI/LLM developer/Prompt Injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt Engineering"
+              "title": "Prompt Injection"
             }
           }
         ],
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompt Engineering.md",
+                "file": "AI/LLM developer/Prompt Injection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prompt Engineering"
+              "title": "Outline of Prompt Injection"
             }
           }
         ],
@@ -208,8 +208,9 @@
   },
   "active": "548edfcc92769cc4",
   "lastOpenFiles": [
+    "AI/LLM developer/Prompt Engineering.md",
+    "AI/LLM developer/Prompt Injection.md",
     "AI/AI.md",
-    "Prompt Engineering.md",
     "AI/LLM developer/LLM Developer Basics.md",
     "DSA/Topics/LinkedList.md",
     "DSA/Algorithms.md",
@@ -241,7 +242,6 @@
     "Cloud/Terraform.md",
     "Java/Basics of Java.md",
     "Cloud",
-    "Java/Java Index.md",
     "DSA/Untitled",
     "DSA",
     "Java",

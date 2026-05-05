@@ -1,0 +1,1 @@
+Learn from here: https://learnprompting.org/docs/prompt_hacking/injection
