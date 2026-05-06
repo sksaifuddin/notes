@@ -1,10 +1,8 @@
-
 ## Common techniques
 
 ## Iterating LinkedList
 
-For almost all LinkedList problems you have to iterate through the list. Its quite simple, but its the first thing that should come to the mind when you see LinkedList problem
-
+For almost all LinkedList problems you have to iterate through the list. Its quite simple, but its the first thing that should come to the mind when you see LinkedList problem.
 ```python
 current = head
 while current is not None:
@@ -15,7 +13,6 @@ while current is not None:
 ### Dummy Head
 
 You create a fake/dummy node at the start of your list that doesn't hold any real data. You build your result list starting from this dummy, and at the end you return `dummy.next` as your actual answer.
-
 ```python
 dummy = ListNode(0)  # fake node, value doesn't matter
 curr = dummy          # use curr to build the list
@@ -33,8 +30,7 @@ example problem: https://leetcode.com/problems/merge-two-sorted-lists/descriptio
 
 Also called Floyd's Tortoise and Hare algorithm
 
-if we move two pointer in a LinkedList and make one move by one node and another (fast) by two nodes, and if there is a cycle they will eventually meet each other. Very helpful and easy algorithm to detect cycles
-
+if we move two pointer in a LinkedList and make one move by one node and another (fast) by two nodes, and if there is a cycle they will eventually meet each other. Very helpful and easy algorithm to detect cycles.
 ```python
 
  def hasCycle(self, head):

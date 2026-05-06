@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1af683d4b2cb24f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/AI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI"
-            }
-          },
-          {
-            "id": "5acfbd9a4f09e31d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/AI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AI"
-            }
-          },
-          {
             "id": "548edfcc92769cc4",
             "type": "leaf",
             "state": {
@@ -49,8 +21,7 @@
               "title": "Prompt Injection"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,10 +180,11 @@
   "active": "548edfcc92769cc4",
   "lastOpenFiles": [
     "AI/LLM developer/Prompt Engineering.md",
-    "AI/LLM developer/Prompt Injection.md",
-    "AI/AI.md",
     "AI/LLM developer/LLM Developer Basics.md",
+    "AI/LLM developer/Prompt Injection.md",
+    "DSA/Topics/Binary Tree.md",
     "DSA/Topics/LinkedList.md",
+    "AI/AI.md",
     "DSA/Algorithms.md",
     "DSA/Topics",
     "Home.md",
@@ -221,7 +193,6 @@
     "DSA/Leetcode daily.md",
     "DSA/DSA Index.md",
     "DSA/Common Techniques.md",
-    "DSA/Binary Tree.md",
     "Masters/Master of Applied Computer Science.md",
     "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/1. Understanding Mysql internals.md",
     "Masters/Term - 1/Data warehousing and Data Mining/create-dbms/0. Desing your own DBMS - Intro.md",
